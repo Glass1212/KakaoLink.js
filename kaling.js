@@ -7,7 +7,7 @@ Based on Delta's kaling.js
 (function() {
     const cryptoModule = require('./crypto');
     const CryptoJS = cryptoModule.CryptoJS;
-    const UserAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36';
+    const UserAgent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15';
     const VERSION = '2022.11.16.dev';
 
     /* Main */
